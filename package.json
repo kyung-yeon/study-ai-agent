@@ -13,9 +13,12 @@
   "dependencies": {
     "@langchain/community": "^0.3.49",
     "@langchain/core": "^0.3.66",
+    "@langchain/langgraph": "^0.4.3",
     "@langchain/openai": "^0.6.3",
     "cheerio": "^1.1.2",
     "dotenv": "^16.4.5",
+    "duck-duck-scrape": "^2.2.7",
+    "expr-eval": "^2.0.2",
     "langchain": "^0.3.30",
     "pdf-parse": "^1.1.1",
     "peggy": "^3.0.2",
